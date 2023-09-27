@@ -3,7 +3,7 @@ SAE S1 BUT Informatique Belfort <br>
 2023
 
 ### Membres du groupe
-Clara Aubertin (référente) - A1 (mailto:clara.aubertin@edu.univ-fcomte.fr?subject=SAE_1_05_06)   <br>
+[Clara Aubertin] (référente) - A1 (mailto:clara.aubertin@edu.univ-fcomte.fr?subject=SAE_1_05_06)   <br>
 Johan Garcia - A1 (mailto:johan.garcia@edu.univ-fcomte.fr?subject=SAE_1_05_06)   <br>
 Hugo Lemble - A1 (mailto:hugo.lemble@edu.univ-fcomte.fr?subject=SAE_1_05_06)   <br>
 Lukas Bourdin - A2 (mailto:lukas.bourdin@edu.univ-fcomte.fr?subject=SAE_1_05_06)   <br>
