@@ -3,11 +3,11 @@ SAE S1 BUT Informatique Belfort <br>
 2023
 
 ### Membres du groupe
-Clara Aubertin (référente) - A1 <br>
-Johan Garcia - A1 <br>
-Hugo Lemble - A1 <br>
-Lukas Bourdin - A2 <br>
-Manon Lamblot - A1 <br>
+Clara Aubertin (référente) - A1 (mailto:clara.aubertin@edu.univ-fcomte.fr?subject=SAE_1_05_06)   <br>
+Johan Garcia - A1 (mailto:johan.garcia@edu.univ-fcomte.fr?subject=SAE_1_05_06)   <br>
+Hugo Lemble - A1 (mailto:hugo.lemble@edu.univ-fcomte.fr?subject=SAE_1_05_06)   <br>
+Lukas Bourdin - A2 (mailto:lukas.bourdin@edu.univ-fcomte.fr?subject=SAE_1_05_06)   <br>
+Manon Lamblot - A1 (mailto:manon.lamblot@edu.univ-fcomte.fr?subject=SAE_1_05_06)   <br>
 
 ### Sujet de la SAE
 Présentation d'Ankama sur un site internet informatif. <br>
