@@ -77,7 +77,7 @@ img{
   padding: 3em 0;
   text-align: center;
   background: rgb(27,29,40);
-background: linear-gradient(90deg, rgba(27,29,40,1) 17%, rgba(36,42,71,1) 55%, rgba(0,191,255,1) 96%);
+  background: linear-gradient(191deg, rgba(27,29,40,1) 17%, rgba(36,42,71,1) 55%, rgba(0,191,255,1) 96%);
   font-size: .8em;
   color: #444;
   position:relative
@@ -149,6 +149,7 @@ h4 {
   border-bottom: 2px solid #9ec9ff; 
   border-top: 2px solid #9ec9ff; 
   border-left: 2px solid #9ec9ff; 
+  border-right: 2px solid #9ec9ff;
   background-color: #141930;
 }
 
