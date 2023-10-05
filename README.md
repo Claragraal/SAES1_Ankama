@@ -17,10 +17,11 @@ Présentation d'Ankama sur un site internet informatif. <br>
 ### Répartition du travail
 
 Planning - Hugo <br>
-Questionnaire n°1 - Clara <br>
+Questionnaire n°1 et n°2 - Clara <br>
 Zoning - Johan <br>
 Wireframe & Style tiles - Clara <br>
 Sources d'inspirations - Manon, Clara, Johan <br>
+Rapport économique - Hugo
 
 Recherches - Lukas, aidé par le reste du groupe <br>
 
