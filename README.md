@@ -12,7 +12,7 @@ lien: https://claragraal.github.io/SAES1_Ankama/
 [Manon Lamblot](mailto:manon.lamblot@edu.univ-fcomte.fr) - A1 <br>
 
 ### Sujet de la SAE
-Présentation d'Ankama sur un site internet informatif. <br>
+Site informatif sur l'entreprise Ankama, présentant ses differents projets, son équipe, son histoire, un rapport économique de l'entreprise, et enfin un point de vue écologique. <br>
 
 ### Répartition du travail
 
@@ -21,10 +21,12 @@ Questionnaire n°1 et n°2 - Clara <br>
 Zoning - Johan <br>
 Wireframe & Style tiles - Clara <br>
 Sources d'inspirations - Manon, Clara, Johan <br>
-Rapport économique - Hugo
+
+Rapport économique (texte) - Tout le groupe
+Rapport économique (mise en page) - Hugo, Clara
 
 Recherches - Lukas, aidé par le reste du groupe <br>
 
 # Présentation du projet
 
-Le projet de cette SAE est de créer un site internet informatif sur Ankama, pour présenter l'entreprise, ses projets, ses objectifs, et réaliser un rapport économique (et écologique) sur celle-ci. Le site internet sera composé d'une page d'accueil ainsi que de 5 pages de contenu sur des sujets distincts.
+Le projet de cette SAE est de créer un site internet informatif sur Ankama, pour présenter l'entreprise, ses projets, ses objectifs, et réaliser un rapport économique (et écologique) sur celle-ci. Le site internet sera composé d'une page d'accueil ainsi que de 5 pages de contenu sur des sujets distincts, y compris son histoire, ses projets, son équipe, un point écologie, et le rapport économique résumé sur le site (telechargeable en entier sur la page "économie")
