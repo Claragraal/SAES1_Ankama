@@ -37,3 +37,12 @@ Page "Economie" - Hugo
 # Présentation du projet
 
 Le projet de cette SAE est de créer un site internet informatif sur Ankama, pour présenter l'entreprise, ses projets, ses objectifs, et réaliser un rapport économique (et écologique) sur celle-ci. Le site internet sera composé d'une page d'accueil ainsi que de 5 pages de contenu sur des sujets distincts, y compris son histoire, ses projets, son équipe, un point écologie, et le rapport économique résumé sur le site (telechargeable en entier sur la page "économie")
+
+# Vérifications W3C
+
+[Page d'accueil](https://validator.w3.org/nu/?doc=https%3A%2F%2Fclaragraal.github.io%2FSAES1_Ankama%2F)
+[Page Projet](https://validator.w3.org/nu/?doc=https%3A%2F%2Fclaragraal.github.io%2FSAES1_Ankama%2FProjets.html)
+[Page Histoire]()
+[Page Ecologie]()
+[Page Economie]()
+[Page Equipe]()
