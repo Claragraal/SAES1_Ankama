@@ -34,6 +34,10 @@ Page "Histoire" - Johan<br>
 Page "Ecologie" - Lukas<br>
 Page "Economie" - Hugo<br>
 
+Github - Clara <br>
+Gitlab - Johan <br>
+BitBucket - <br>
+
 # Présentation du projet
 
 Le projet de cette SAE est de créer un site internet informatif sur Ankama, pour présenter l'entreprise, ses projets, ses objectifs, et réaliser un rapport économique (et écologique) sur celle-ci. Le site internet sera composé d'une page d'accueil ainsi que de 5 pages de contenu sur des sujets distincts, y compris son histoire, ses projets, son équipe, un point écologie, et le rapport économique résumé sur le site (telechargeable en entier sur la page "économie")
