@@ -22,17 +22,17 @@ Zoning - Johan <br>
 Wireframe & Style tiles - Clara <br>
 Sources d'inspirations - Manon, Clara, Johan <br>
 
-Rapport économique (texte) - Tout le groupe
-Rapport économique (mise en page) - Hugo, Clara
+Rapport économique (texte) - Tout le groupe<br>
+Rapport économique (mise en page) - Hugo, Clara<br>
 
 Recherches - Lukas, aidé par le reste du groupe <br>
 
-Base du site internet, page d'accueil - Johan
-Page "Projets" - Clara
-Page "Equipe" - Manon
-Page "Histoire" - Johan
-Page "Ecologie" - Lukas
-Page "Economie" - Hugo
+Base du site internet, page d'accueil - Johan<br>
+Page "Projets" - Clara<br>
+Page "Equipe" - Manon<br>
+Page "Histoire" - Johan<br>
+Page "Ecologie" - Lukas<br>
+Page "Economie" - Hugo<br>
 
 # Présentation du projet
 
