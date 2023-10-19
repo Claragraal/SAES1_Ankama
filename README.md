@@ -35,8 +35,7 @@ Page "Ecologie" - Lukas<br>
 Page "Economie" - Hugo<br>
 
 Github - Clara <br>
-Gitlab - Johan <br>
-BitBucket - <br>
+Gitlab & BitBucket - Johan <br>
 
 # Présentation du projet
 
