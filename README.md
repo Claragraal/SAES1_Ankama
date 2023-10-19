@@ -40,9 +40,9 @@ Le projet de cette SAE est de créer un site internet informatif sur Ankama, pou
 
 # Vérifications W3C
 
-[Page d'accueil](https://validator.w3.org/nu/?doc=https%3A%2F%2Fclaragraal.github.io%2FSAES1_Ankama%2F)
-[Page Projet](https://validator.w3.org/nu/?doc=https%3A%2F%2Fclaragraal.github.io%2FSAES1_Ankama%2FProjets.html)
-[Page Histoire]()
-[Page Ecologie]()
-[Page Economie]()
-[Page Equipe]()
+[Page d'accueil](https://validator.w3.org/nu/?doc=https%3A%2F%2Fclaragraal.github.io%2FSAES1_Ankama%2F) <br>
+[Page Projet](https://validator.w3.org/nu/?doc=https%3A%2F%2Fclaragraal.github.io%2FSAES1_Ankama%2FProjets.html) <br>
+[Page Histoire](https://validator.w3.org/nu/?doc=https%3A%2F%2Fclaragraal.github.io%2FSAES1_Ankama%2FHistoire.html) <br>
+[Page Ecologie](https://validator.w3.org/nu/?doc=https%3A%2F%2Fclaragraal.github.io%2FSAES1_Ankama%2FEcologie.html) <br>
+[Page Economie](https://validator.w3.org/nu/?doc=https%3A%2F%2Fclaragraal.github.io%2FSAES1_Ankama%2FEconomie.html) <br>
+[Page Equipe](https://validator.w3.org/nu/?doc=https%3A%2F%2Fclaragraal.github.io%2FSAES1_Ankama%2FEquipe.html) <br>
